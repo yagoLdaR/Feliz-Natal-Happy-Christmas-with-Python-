@@ -1,4 +1,4 @@
-# Feliz Natal Happy Christmas with Python
+# Feliz Natal | Happy Christmas (with Python)
 - Uma pequena animação de Natal feita com Python e Pygame, criada para compartilhar um pouco do espírito natalino com amigos e familiares. A animação apresenta uma árvore de Natal feita de partículas, luzes, enfeites coloridos, presentes, neve e uma mensagem especial de Natal. A ideia é que qualquer pessoa possa abrir o projeto e assistir à animação.
 
 - A small Christmas animation made with Python and Pygame, created to share a little Christmas spirit with friends and family. The animation features a Christmas tree made of particles, lights, colorful ornaments, presents, snowfall and a special Christmas message. The idea is for anyone to be able to open the project and enjoy the animation.
