@@ -15,21 +15,9 @@
 
 
 # Como executar | How to run
-- Português:
-Instale o Python 3.
-Instale o Pygame:
-pip install pygame-ce
-Execute o arquivo:
-python christmas.py
-Pressione ESC para fechar a animação.
+- Instale o Python 3; Instale o Pygame: pip install pygame-ce; Execute o arquivo: python christmas.py; Pressione ESC para fechar a animação.
 
-- English:
-Install Python 3.
-Install Pygame:
-pip install pygame-ce
-Run the file:
-python christmas.py
-Press ESC to close the animation.
+- Install Python 3; Install Pygame: pip install pygame-ce; Run the file: python christmas.py; Press ESC to close the animation.
 
 
 # Música | Music
