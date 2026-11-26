@@ -45,11 +45,13 @@ O arquivo de música não está incluído neste repositório. | The music file i
 
 
 # Estrutura do projeto | Project structure
+```text
 Feliz-Natal-Happy-Christmas-with-Python/
 ├── christmas.py
 ├── assets/
 │   └── christmas_music.mp3
 └── README.md
+```
 
 Feito com Python e Pygame. Feliz Natal! 
 Made with Python and Pygame. Merry Christmas! 
