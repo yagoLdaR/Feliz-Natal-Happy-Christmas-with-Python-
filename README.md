@@ -51,5 +51,5 @@ Feliz-Natal-Happy-Christmas-with-Python/
 │   └── christmas_music.mp3
 └── README.md
 
-Feito com Python e Pygame. Feliz Natal! 🎄
-Made with Python and Pygame. Merry Christmas! 🎄
+Feito com Python e Pygame. Feliz Natal! 
+Made with Python and Pygame. Merry Christmas! 
